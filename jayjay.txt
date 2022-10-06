@@ -5,3 +5,5 @@ yeni birseyler
 tekrar yeni birseyler
 
 yeni birseyler ekliyorum, branch actim
+
+degisiklik yaptim
