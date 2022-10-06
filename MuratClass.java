@@ -4,6 +4,8 @@ public class MuratClass {
 
         System.out.println("Cenkay");
 
+        // birseyler ekledim simdi
+
     }
 
 }
